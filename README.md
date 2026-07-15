@@ -2,13 +2,13 @@
 
 An end to end retail sales analytics project built using SQL, Excel, and Power BI to analyze business performance through interactive dashboards, KPI reporting, and data driven insights.
 
----
+----
 
 ## 📸 Dashboard Preview
 
 ![Retail Sales Dashboard](Retail%20Sales%20Dashboard.png)
 
----
+----
 
 # 🚀 Project Overview
 
